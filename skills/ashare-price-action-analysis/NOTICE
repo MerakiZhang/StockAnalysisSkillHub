@@ -1,0 +1,12 @@
+Ashare Price Action Analysis Skill
+
+This project includes source code and prompt assets copied from PA Agent:
+Local source provided by the user: D:\CodeEnv\Quant\PA_Agent
+Copyright (C) 2026 PA Agent Contributors
+
+The Skill is distributed under the MIT License.
+See the project-level LICENSE file in StockAnalysisSkillHub.
+
+New integration code provides a vendor-neutral Agent skill and adapts the
+engine to AkShare's Sina/Tencent A-share interfaces. The original PA Agent
+project is not modified and is not required at runtime.

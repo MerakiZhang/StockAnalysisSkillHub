@@ -10,7 +10,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+# dist/ is intentionally tracked for distributable Skill ZIP files.
 downloads/
 eggs/
 .eggs/
